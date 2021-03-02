@@ -15,3 +15,7 @@ pravka dlya Conflict solving 4main
 pravka dlya Conflict solving 4feature1
 
 yeto dlya proverki tag
+
+
+dobavlyayu strochku2check
+i esh'e
